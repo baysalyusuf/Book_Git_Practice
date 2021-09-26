@@ -5,3 +5,4 @@ our second file
 
 now we had git enabled
 
+i added some text
